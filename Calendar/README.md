@@ -9,7 +9,7 @@
 1. :+1:<b> Something finished </b>:+1: 
 
 #### Week 7 : Dec 2 -- Dec 9
-1. :+1:<b> Level 2 basics finished </b>:+1:
+1. <b>Level 2 basics finished</b>
 2. fix preload image bug : ```preloadImg.onload = function() {};```
 
 #### Week 4 : Oct 15 -- Oct 25

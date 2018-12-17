@@ -15,3 +15,9 @@
 1. Through Github.
 2. Email your README.md file to the author: ```ytc@vt.edu``` with your name, <br/>
    <b>We will mark you as the template's contributor!</b>
+
+## Currently What We Have:
+<div align="center">
+   <a href="https://github.com/OwenYing/README-Templates/blob/master/Book/README.md">
+    <img src="../resources/examples/Book1.png" width="150px">
+</div> 

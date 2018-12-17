@@ -5,11 +5,11 @@
 3. Jerry 🐹 (Jerry@vt.edu)
 
 ### To do
-➡️ Thing1
-➡️ Thing2
-➡️ Thing3
-❓Question1
-❓Question2
+1. Thing1
+2. Thing2
+3. Thing3
+4.❓Question1❓
+5,❓Question2❓
 
 ### Calendar
 #### Week 8 : Dec 10 -- Dec 17

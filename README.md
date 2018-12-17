@@ -17,7 +17,11 @@
    <b>We will mark you as the template's contributor!</b>
 
 ## Currently What We Have:
-<div align="center">
+<div align="left">
    <a href="https://github.com/OwenYing/README-Templates/blob/master/Book/README.md">
-    <img src="./resources/examples/Book1.png" width="150px">
+    <img src="./resources/examples/Book1.png" width="50%">
+</div> 
+<div align="left">
+   <a href="https://github.com/OwenYing/README-Templates/blob/master/Calendar/README.md">
+    <img src="./resources/examples/Calendar1.png" width="50%">
 </div> 

@@ -19,5 +19,5 @@
 ## Currently What We Have:
 <div align="center">
    <a href="https://github.com/OwenYing/README-Templates/blob/master/Book/README.md">
-    <img src="../resources/examples/Book1.png" width="150px">
+    <img src="./resources/examples/Book1.png" width="150px">
 </div> 

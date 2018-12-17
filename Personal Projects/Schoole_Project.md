@@ -1,6 +1,5 @@
 # Project Tittle
 
-## Proposal:  
 ###  Abstract :  
     1, OpenDwarf problems  
     2, OpenMP + OpenACC  

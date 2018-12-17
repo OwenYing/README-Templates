@@ -13,7 +13,7 @@
 
 ### Calendar
 #### Week 8 : Dec 10 -- Dec 17
-1. :+1:<b> Something finished </b>:+1: --🐱🐶🐹
+1. :+1:Something finished :+1: --🐱🐶🐹
 2. [Link of Website](www.google.com) --🐹
 3. **Bold Events**  --🐱
 4. Code can go here: 

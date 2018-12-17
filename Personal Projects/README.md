@@ -14,7 +14,7 @@
 5. Put your Installation gif below: 
 ![](../resources/Installation.gif)
 
-### Easy ShortCuts
+### Functionalities
 1. <kbd>command + f</kbd>: Jump one word ```backward```. <kbd>command + alt + f</kbd> ```search```
 2. <kbd>command + j</kbd>: Jump one word ```forward```.
 3. <kbd>command + g</kbd>: Jump to ```line start```.
@@ -23,9 +23,12 @@
 6. <kbd>command + n</kbd>: Jump to ```next line```. <kbd>command + alt + n</kbd> ```new file```
 7. <kbd>command + dd</kbd>: ```Delete``` current line. (dd: Double hit on d)
 
-
-
-
-
 ### Contribute
 Please feel free to contribute your easy shortcut which can increase productivity.
+
+
+
+
+---
+###### Always pull the newest version before start coding. [Git cheatsheet](https://owenying.github.io/html/blog/ToBeAEngineerFromScratch/Diary.html)
+###### [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

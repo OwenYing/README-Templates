@@ -27,3 +27,8 @@ public static void main(String[] args){
 1. fix preload image bug : ```preloadImg.onload = function() {};```
 
 
+
+
+---
+###### Always pull the newest version before start coding. [Git cheatsheet](https://owenying.github.io/html/blog/ToBeAEngineerFromScratch/Diary.html)
+###### [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

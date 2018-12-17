@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-    <img src="../resources/Book.png" width="150px">
+    <img src="../resources/Logo.jpeg" width="150px">
 </div> 
 
 ### :bulb: Chapter1
@@ -131,3 +131,8 @@
 
 
 #### License
+
+---
+###### Reference [CS-Notes](https://github.com/CyC2018/CS-Notes)
+###### Always pull the newest version before start coding. [Git cheatsheet](https://owenying.github.io/html/blog/ToBeAEngineerFromScratch/Diary.html)
+###### [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

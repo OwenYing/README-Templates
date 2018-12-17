@@ -5,11 +5,11 @@
 3. Jerry 🐹 (Jerry@vt.edu)
 
 ### To do
-1. Thing1
-2. Thing2
-3. Thing3
-4.❓Question1❓
-5,❓Question2❓
+1. Things To Do 
+2. Things To Do 
+3. Things To Do 
+4. ❓Question❓
+5. ❓Question❓
 
 ### Calendar
 #### Week 8 : Dec 10 -- Dec 17
@@ -21,7 +21,7 @@
 public static void main(String[] args){
 }
 ```
-5. Or code here ```preloadImg.onload = function() {};``` by 🐱
+5. Or code here ```preloadImg.onload = function() {};``` --🐱
 
 #### Week 7 : Dec 2 -- Dec 9
 1. fix preload image bug : ```preloadImg.onload = function() {};```

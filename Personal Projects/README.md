@@ -11,7 +11,7 @@
 2. Click "SublimeText" one the menu bar
 3. "Preferences" --> "Key Bindings"
 4. Copy and paste [this file](www.yourProjectFileURL) into ```Somewhere```
-5. Put your Installation gif below: 
+5. Put your Installation gif below: <br/>
 ![](../resources/Installation.gif)
 
 ### Functionalities

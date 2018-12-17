@@ -1,8 +1,8 @@
 # Project Title
 ### Team Members 🐶🐱🐹🐰🦊🐻🐼🐨🐯🦁🐮🐷🐸🐵
-1. Tom 🐱
-2. Owen 🐶
-3. Jerry 🐹
+1. Tom 🐱 (tom@vt.edu)
+2. Owen 🐶 (owen@vt.edu)
+3. Jerry 🐹 (Jerry@vt.edu)
 
 ### Calendar
 #### Week 8 : Dec 10 -- Dec 17

@@ -12,7 +12,7 @@
 3. "Preferences" --> "Key Bindings"
 4. Copy and paste [this file](www.yourProjectFileURL) into ```Somewhere```
 5. Put your Installation gif below: 
-![](./resources/Installation.gif)
+![](../resources/Installation.gif)
 
 ### Easy ShortCuts
 1. <kbd>command + f</kbd>: Jump one word ```backward```. <kbd>command + alt + f</kbd> ```search```

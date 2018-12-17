@@ -16,12 +16,21 @@
 2. Email your README.md file to the author: ```ytc@vt.edu``` with your name, <br/>
    <b>We will mark you as the template's contributor!</b>
 
-## Currently What We Have:
+## Currently What We Have(Click on the image to source code):
 <div align="left">
    <a href="https://github.com/OwenYing/README-Templates/blob/master/Book/README.md">
-    <img src="./resources/examples/Book1.png" width="50%">
+    <img src="./resources/examples/Book1.png" width="47%">
 </div> 
-<div align="left">
+<div align="right">
    <a href="https://github.com/OwenYing/README-Templates/blob/master/Calendar/README.md">
-    <img src="./resources/examples/Calendar1.png" width="50%">
+    <img src="./resources/examples/Calendar1.png" width="47%">
+</div>
+<div align="left">
+   <a href="https://github.com/OwenYing/README-Templates/blob/master/Personal%20Projects/README.md">
+    <img src="./resources/examples/PersonalProject1.png" width="47%">
 </div> 
+<div align="right">
+   <a href="https://github.com/OwenYing/README-Templates/blob/master/Personal%20Projects/Schoole_Project.md">
+    <img src="./resources/examples/PersonalProject2.png" width="47%">
+</div>
+ 

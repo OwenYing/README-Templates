@@ -33,4 +33,8 @@
    <a href="https://github.com/OwenYing/README-Templates/blob/master/Personal%20Projects/Schoole_Project.md">
     <img src="./resources/examples/PersonalProject2.png" width="47%">
 </div>
+<div align="left">
+   <a href="https://github.com/OwenYing/README-Templates/blob/master/Formal%20Project/README.md">
+    <img src="./resources/examples/FormalProject1.png" width="47%">
+</div> 
  

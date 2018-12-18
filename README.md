@@ -37,4 +37,8 @@
    <a href="https://github.com/OwenYing/README-Templates/blob/master/Formal%20Project/README.md">
     <img src="./resources/examples/FormalProject1.png" width="47%">
 </div> 
+<div align="right">
+   <a href="https://github.com/OwenYing/README-Templates/tree/master/Grids">
+    <img src="./resources/examples/Grid1.png" width="47%">
+</div>
  

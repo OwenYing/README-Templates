@@ -8,7 +8,7 @@ Brief Introduction:
 ## Notebooks
 |Basics|Deep Learning|Advanced|Topics|
 |-|-|-|-|
-| 📓 [Notebooks](put your url here)|      🔥 [PyTorch]()         |📚 [Advanced RNNs]()            |📸 [Computer Vision]()    |
+| 📓 [Notebooks](www.yoururl.com)  |      🔥 [PyTorch]()         |📚 [Advanced RNNs]()            |📸 [Computer Vision]()    |
 | 🐍 [Python]()                    |🎛️ [Multilayer Perceptrons]()|🏎️ Highway and Residual Networks|⏰ Time Series Analysis   |
 |🔢 [NumPy]()                      |🔎 [Data & Models]()         |🔮 Autoencoders                 |🏘️ Topic Modeling         |
 | 🐼 [Pandas]()                    |📦 [Object-Oriented ML]()    |🎭 Generative Adversarial Networks|🛒 Recommendation Systems|

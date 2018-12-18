@@ -47,9 +47,5 @@ We are welcome to any kind of feedback and contributions.
 
 
 ## Built with amazing technologies
+[BloomRPC](https://github.com/uw-labs/bloomrpc/blob/master/README.md)
 
-<p float="left">
-  <img src="./resources/thirdparties/electron-logo.png" width="100"/>
-  <img src="./resources/thirdparties/react-logo.png" width="120" />
-  <img src="./resources/thirdparties/grpc-logo.png" width="160" />
-</p>
